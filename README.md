@@ -11,7 +11,7 @@
 - 💻 **Learning:** Python, JavaScript, CSS, HTML, React.js, Node.js.
 - 🐧 **Linux Enthusiast:** I've explored multiple operating systems!
 - 🚀 **Love building projects** to learn & grow.
-- 🎯 **Goal:** Becoming a **Software Engineer**.
+- 🎯 **Goal:** Becoming a **Software Engineer and doing something to change world**.
 - 📬 **Reach me at:** [Mantech468@gmail.com](mailto:Mantech468@gmail.com)
 
 ---
@@ -36,15 +36,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yourgithubusername&theme=discord&column=5" />
 </p>
-
----
-
-## 🛠️ **Projects I've Built**
-| **Project Name** | **Tech Stack** | **Repo** |
-|----------------|--------------|---------|
-| **Project 1** | `React`, `Node.js` | [Repo Link](#) |
-| **Project 2** | `Python`, `Flask` | [Repo Link](#) |
-| **Project 3** | `JavaScript`, `CSS` | [Repo Link](#) |
 
 ---
 
